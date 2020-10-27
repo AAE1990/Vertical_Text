@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AAE1990/Vertical_Text.git/static/css/main.e870d913.chunk.css",
+    "main.js": "/AAE1990/Vertical_Text.git/static/js/main.98257cbb.chunk.js",
+    "main.js.map": "/AAE1990/Vertical_Text.git/static/js/main.98257cbb.chunk.js.map",
+    "runtime-main.js": "/AAE1990/Vertical_Text.git/static/js/runtime-main.c69c1a46.js",
+    "runtime-main.js.map": "/AAE1990/Vertical_Text.git/static/js/runtime-main.c69c1a46.js.map",
+    "static/js/2.7854c92d.chunk.js": "/AAE1990/Vertical_Text.git/static/js/2.7854c92d.chunk.js",
+    "static/js/2.7854c92d.chunk.js.map": "/AAE1990/Vertical_Text.git/static/js/2.7854c92d.chunk.js.map",
+    "static/js/3.4a000b34.chunk.js": "/AAE1990/Vertical_Text.git/static/js/3.4a000b34.chunk.js",
+    "static/js/3.4a000b34.chunk.js.map": "/AAE1990/Vertical_Text.git/static/js/3.4a000b34.chunk.js.map",
+    "index.html": "/AAE1990/Vertical_Text.git/index.html",
+    "static/css/main.e870d913.chunk.css.map": "/AAE1990/Vertical_Text.git/static/css/main.e870d913.chunk.css.map",
+    "static/js/2.7854c92d.chunk.js.LICENSE.txt": "/AAE1990/Vertical_Text.git/static/js/2.7854c92d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69c1a46.js",
+    "static/js/2.7854c92d.chunk.js",
+    "static/css/main.e870d913.chunk.css",
+    "static/js/main.98257cbb.chunk.js"
+  ]
+}
